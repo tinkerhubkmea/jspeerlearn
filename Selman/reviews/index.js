@@ -4,25 +4,25 @@ const reviews = [
       name: "Messi",
       job: "Football player",
       img:
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fcbarcelona.com%2Fen%2Fnews%2F1219720%2Fmessi-on-cusp-of-pichichi-and-golden-shoe&psig=AOvVaw2D541YlbM0icUpuInAP01t&ust=1644070966826000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCX4uKf5vUCFQAAAAAdAAAAABAD",
+        "https://images.news18.com/ibnlive/uploads/2021/08/1628186497_lionel-messi.jpg",
       text:
       "You can overcome anything, if and only if you love something enough.",
     },
     {
-      id: 2,
-      name: "Cristiano Ronaldo",
-      job: "Football player",
-      img:
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCristiano_Ronaldo&psig=AOvVaw3_oeGFZ9ogV5UDWt8deE-I&ust=1644071206601000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjWktag5vUCFQAAAAAdAAAAABAD",
-      text:
-        "If you don’t believe you are the best, then you will never achieve all that you are capable of.",
+    id: 2,
+    name: "Cristiano Ronaldo",
+    job: "Football player",
+    img:
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+    text:
+        "If you don’t believe you are the best, then you will never achieve all that you are capable of."
     },
     {
       id: 3,
       name: "Bill Gates",
       job: "Business man",
       img:
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cgiar.org%2Fnews-events%2Fnews%2Fbill-gates-on-cgiar-and-adapting-to-a-warmer-world%2F&psig=AOvVaw3k8JD4bZKvhmWT-glCC_pK&ust=1644071392827000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKC_hK6h5vUCFQAAAAAdAAAAABAD",
+        "https://pbs.twimg.com/profile_images/1414439092373254147/JdS8yLGI_400x400.jpg",
       text:
         "Everyone needs a coach. It doesn't matter whether you're a basketball player, a tennis player, a gymnast, or a bridge player.",
     },
